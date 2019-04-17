@@ -1,0 +1,93 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+.container > .row{
+    margin-top: 25px;
+}
+
+.card{
+    padding: 5%;
+    margin: 0 auto;
+    float: none;
+    font-size: 75%;
+}
+
+img{
+    margin-left:auto;
+    margin-right:auto;
+    display: block;
+}
+
+p{
+    text-align: center;
+    color:gray;
+}
+
+.btn{
+    width:100%;
+    background-color: goldenrod;
+    color: black;
+    font-family:sans-serif;
+    font-weight: lighter;
+    font-size: 12px;
+    border-style: none;
+}
+
+#create{
+    background-color: lightgray;
+}
+
+h1{
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+.card-title{
+    font-size: 75%;
+    font-weight: bold;
+}
+
+.card-text > p{
+    text-align: center;
+    padding: 5px;
+}
+
+.card > button{
+    width: 100%;
+    margin: 15px auto;
+    color: darkgoldenrod;
+}
+
+.form-group{
+    width:100%;
+}
+
+.description{
+    margin-top: 20%;
+}
+
+footer{
+    background-color:lightgrey;
+    margin-top: 100px;
+}
+
+ul li{
+    list-style-type: none;
+    display:block;
+    text-align: center;
+}
+
+.push-left{
+    left:29%;
+}
+
+span{
+    right:25%;
+}
+
+.notes{
+    font-size: 10px;
+}
